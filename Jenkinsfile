@@ -83,7 +83,7 @@ pipeline {
             git config user.name jenkins-bot
             git config user.email jenkins-bot@example.com
             git commit -am "Deploy $TAG"
-            git push https://$GH_USER:$GH_TOKEN@github.com/sumith-k-sam/project4.git HEAD:main
+            git push https://$GH_USER:$GH_TOKEN@github.com/AlanJose2712/project4.git HEAD:main
           '''
         }
       }
