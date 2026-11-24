@@ -1,0 +1,6 @@
+zap-out/
+zap.log
+bandit.html
+__pycache__/
+*.pyc
+staticfiles/
